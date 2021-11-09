@@ -1,0 +1,23 @@
+body{
+    background-color:chartreuse;
+}
+
+
+.header{
+    background-color:#d6c285;
+    font-family: 'Architects Daughter', cursive;
+}
+
+
+#show_sketch{
+    margin-left:125px;
+    font-family: 'Architects Daughter', cursive;
+    float:right;
+
+}
+
+
+.info{
+    font-family: 'Architects Daughter', cursive;
+    font-size:28px;
+}
